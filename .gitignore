@@ -135,3 +135,7 @@ experiments_train/
 error_by_files/
 runtimes/
 *.wav
+Chopin_Mazurkas_audios/
+Chopin_Mazurkas_Benchmarks/
+Chopin_Mazurkas_features/
+Chopin_Mazurkas_Modified/
